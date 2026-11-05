@@ -1,3 +1,3 @@
 #Teamwork
 
-teamwork duos
+Tento repozitar je urcen na skupinovou praci
